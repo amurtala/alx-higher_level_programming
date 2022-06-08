@@ -1,2 +1,4 @@
 ignore_files
 add_0.py
+__pycache__
+calculator_1.py
